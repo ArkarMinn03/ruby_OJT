@@ -35,4 +35,4 @@ end
 
 puts "Enter any number: "
 num = gets.chomp.to_i
-createDiamond(num)s
+createDiamond(num)
